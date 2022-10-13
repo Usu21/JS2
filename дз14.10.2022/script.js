@@ -1,4 +1,4 @@
-/*
+
 //1
 let str2 = 1;
 if (str2 == 1) {
@@ -31,7 +31,7 @@ while (i++ < 67) {
 }
 
 //6
-let i = 44
+//let i = 44
 while (i++ < 670) {
     if (i % 10 == 0){
         console.log(`${i}`)
@@ -53,4 +53,3 @@ function  hello1() {
     return( '«Привет, JavaScript!»' );
   }
 console.log(hello1())
-*/
